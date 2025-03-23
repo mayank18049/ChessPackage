@@ -1,0 +1,9 @@
+[submodule "GoChessDB"]
+	path = GoChessDB
+	url = https://github.com/mayank18049/GoChessDB.git
+[submodule "GoChessMoveShare"]
+	path = GoChessMoveShare
+	url = https://github.com/mayank18049/GoChessMoveShare.git
+[submodule "ChessFront"]
+	path = ChessFront
+	url = https://github.com/mayank18049/ChessFront.git
